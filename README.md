@@ -6,7 +6,8 @@ This project is on-going and the authors will continually update the files as th
 
 # Index
 
-[1. First Order and Second Order Process Dynamics](1.First_Second_Order_Process_Dyanmics)
+[1. First Order and Second Order Process Dynamics](1.First_Second_Order_Process_Dynamics)
+
 2. Inverse Response and Time Delay
 3. First Order Plus Time Delay Parameter Fitting
 4. Process Identification
