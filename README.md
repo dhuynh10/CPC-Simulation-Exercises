@@ -1,4 +1,4 @@
-# ASEE-Draft
+# ASEE
 
 This GitHub repository is used to house Simulink and Matlab Live Scripts files used at the University of Delaware Chemical Process Dynamics and Controls course, co-taught by Dat Huynh and Professor Marianthi Ierapetritou. This is an effort towards integrating active learning and modern simulation tools to enhance student learning within the classroom. We believe the use of these simulation tools can improve student learning, engagement, and knowledge retention. 
 
@@ -10,10 +10,11 @@ This project is on-going and the authors will continually update the files as th
 2. Inverse Response and Time Delay
 3. First Order Plus Time Delay Parameter Fitting
 4. Process Identification
-5. Basics of P, PI, and PID control - Single Input Single Output (SISO)
-6. PID Tuning Rules
-7. Relative Gain Array (RGA)
-8. Multiple Input Multiple Output (MIMO)
+5. Stability
+6. Basics of P, PI, and PID control - Single Input Single Output (SISO)
+7. PID Tuning Rules
+8. Relative Gain Array (RGA)
+9. Multiple Input Multiple Output (MIMO)
 
 # Reference
 
