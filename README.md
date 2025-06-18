@@ -7,7 +7,7 @@ This project is on-going and the authors will continually update the files as th
 # Index
 
 1. [First Order and Second Order Process Dynamics](1.First_Second_Order_Process_Dynamics)
-2. [Inverse Response and Time Delay](2.Inverse_Response_Time_Delay)
+2. [Inverse Response and Lead Lag Dynamics](2.Inverse_Response_Lead_Lag)
 3. [First Order Plus Time Delay Parameter Fitting](3.FOPTD)
 4. [Process Identification](4.Process_Identification)
 5. [Stability](5.Stability)
