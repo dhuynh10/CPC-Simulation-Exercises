@@ -6,16 +6,15 @@ This project is on-going and the authors will continually update the files as th
 
 # Index
 
-[1. First Order and Second Order Process Dynamics](1.First_Second_Order_Process_Dynamics)
-
-2. Inverse Response and Time Delay
-3. First Order Plus Time Delay Parameter Fitting
-4. Process Identification
-5. Stability
-6. Basics of P, PI, and PID control - Single Input Single Output (SISO)
-7. PID Tuning Rules
-8. Relative Gain Array (RGA)
-9. Multiple Input Multiple Output (MIMO)
+1. [First Order and Second Order Process Dynamics](1.First_Second_Order_Process_Dynamics)
+2. [Inverse Response and Time Delay](2.Inverse_Response_Time_Delay)
+3. [First Order Plus Time Delay Parameter Fitting](3.FOPTD)
+4. [Process Identification](4.Process_Identification)
+5. [Stability](5.Stability)
+6. [Basics of P, PI, and PID control - Single Input Single Output (SISO)](6.SISO)
+7. [PID Tuning Rules](7.PID)
+8. [Relative Gain Array (RGA)](8.RGA)
+9. [Multiple Input Multiple Output (MIMO)](9.MIMO) 
 
 # Reference
 
