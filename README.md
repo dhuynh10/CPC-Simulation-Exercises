@@ -1,6 +1,6 @@
-# ASEE
+# Chemical Process Control Simulation Exercises
 
-This GitHub repository is used to house Simulink and Matlab Live Scripts files used at the University of Delaware Chemical Process Dynamics and Controls course, co-taught by Dat Huynh and Professor Marianthi Ierapetritou. This is an effort towards integrating active learning and modern simulation tools to enhance student learning within the classroom. We believe the use of these simulation tools can improve student learning, engagement, and knowledge retention. 
+This GitHub repository is used to house Simulink and Matlab Live Scripts files used at the University of Delaware Chemical Process Dynamics and Controls course, co-taught by Dat Huynh and Professor Marianthi Ierapetritou, and assisted by Professor Joshua Enszer. This is an effort towards integrating active learning and modern simulation tools to enhance student learning within the classroom. We believe the use of these simulation tools can improve student learning, engagement, and knowledge retention. 
 
 This project is on-going and the authors will continually update the files as the course develops. The authors intend for students to utilize this resource as additional content to help understanding process controls concepts as well as for instructors to adapt the material for use in their own classes. Below you will find an index with all of the modules currently developed for the course along with their respective learning objectives, which are also embedded in the files themselves. 
 
